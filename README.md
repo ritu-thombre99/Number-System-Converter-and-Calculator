@@ -1,5 +1,5 @@
 # Number-System-Converter-and-Calculator
-Simple tool for convertsions and calculations between binary, octal ,decimal and hexdecimal number systems developed using Kivy in Python
+Simple tool for conversions and calculations between binary, octal ,decimal and hexdecimal number systems developed using Kivy in Python
 
 To run the app type ```python main.py``` in Anaconda Powershell Prompt.
 helper.py contains auxiliary functions
